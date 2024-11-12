@@ -68,4 +68,5 @@ def updateCategory(request):
 
         return JsonResponse({"error": 'Id Category wasn´t found'})
     
-# holi
+# holiiiiiiiiiiiiiiiiiiiiiii
+
