@@ -67,3 +67,5 @@ def updateCategory(request):
     except(ValueError, KeyError):
 
         return JsonResponse({"error": 'Id Category wasn´t found'})
+    
+# holi
